@@ -28,7 +28,6 @@
         0, // charCode: unsigned long - the Unicode character associated with the depressed key, else 0
     );
 
-
     setInterval(function(){
         try{
             document.dispatchEvent(keyboardEvent);
