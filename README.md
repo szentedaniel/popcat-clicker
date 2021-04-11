@@ -11,5 +11,5 @@ A szkript a legtöbb modern böngészőre telepíthető.<br>
     * [Új Microsoft Edge](https://microsoftedge.microsoft.com/insider-addons/detail/iikmkjmpaadaobahmlepeloendndfphd)
     * [Opera](https://addons.opera.com/en/extensions/details/tampermonkey-beta)
     * [Safari](https://apps.apple.com/us/app/tampermonkey/id1482490089)
-1. Most már telepítheted a Trabantnevelde bot szkriptet. Ehhez [kattints ide](https://github.com/szentedaniel/Trabantnevelde-bot/releases/latest/download/Trabantnevelde_bot.user.js).
+1. Most már telepítheted a Trabantnevelde bot szkriptet. Ehhez [kattints ide](https://github.com/szentedaniel/popcat-clicker/releases/download/0.1/Popcat_clicker.user.js).
 2. A megjelenő oldalon kattints az **Install** gombra.
